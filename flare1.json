@@ -3,123 +3,111 @@
  "children": [
   {
    "name": "Frequencies",
-   "children": [
-    {
-     "name": "JIM Box issue",
-      "children": [
-        {
-          "name": "Board bad routed to NI6501",
-          "value": 3938
-        },
-        {
-          "name": "DB25 pin misplaced",
-          "value": 3812
-        },
-        {
-          "name": "CPC pin misplaced",
-          "value": 6714
-        },
-        {
-          "name": "USB cable disconnected",
-          "value": 743
-        },
-        {
-          "name": "relays do not switch",
-          "value": 743,
-          "children": [
-            {
-              "name": "relay line disconnected",
-              "value": 3534
-            },
-            {
-              "name": "Relay board with wrong resistor value on control circuit",
-              "value": 5731
-            },
-            {
-              "name": "relay line disconnected",
-              "value": 3416
-            },
-            {
-              "name": "Relay board with wrong transistor on control circuit",
-              "value": 5914
-            },
-            {
-              "name": "Board bad routed to NI6501",
-              "value": 7840
-            }
-          ]
-        },
-        {
-          "name": "Power Supply fail",
-          "value": 743
-        }
-      ]
-    },
-    {
-     "name": "BSS Audio box",
-      "children": [
-        {
-          "name": "Dip switch wrong configuration",
-          "value": 3534
-        },
-        {
-          "name": "Channels config by color",
-          "value": 5731
-        },
-        {
-          "name": "Ring connection between amp/boxes",
-          "children": [
-            {
-              "name": "Ethernet cables",
-              "value": 7840
-            }
-          ]
-        },
-        {
-          "name": "2 Drivers installed properly",
-          "value": 5914
-        },
-        {
-          "name": "Audio devices named properly",
-          "value": 3416
-        }
+    "children": [
+      {
+        "name": "JIM Box issue",
+        "children": [
+          {
+            "name": "Board bad routed to NI6501",
+            "value": 3938
+          },
+          {
+            "name": "DB25 pin misplaced",
+            "value": 3812
+          },
+          {
+            "name": "CPC pin misplaced",
+            "value": 6714
+          },
+          {
+            "name": "USB cable disconnected",
+            "value": 743
+          },
+          {
+            "name": "relays do not switch",
+            "value": 743,
+            "children": [
+              {
+                "name": "relay line disconnected",
+                "value": 3534
+              },
+              {
+                "name": "Relay board with wrong resistor value on control circuit",
+                "value": 5731
+              },
+              {
+                "name": "relay line disconnected",
+                "value": 3416
+              },
+              {
+                "name": "Relay board with wrong transistor on control circuit",
+                "value": 5914
+              },
+              {
+                "name": "Board bad routed to NI6501",
+                "value": 7840
+              }
+            ]
+          },
+          {
+            "name": "Power Supply fail",
+            "value": 743
+          }
         ]
-    },
-    {
-      "name": "Keithley 3706A",
-      "children": [
-        {
-          "name": "Keithley harness",
-          "children": [
-            {
-              "name": "D104 pin missplaced",
-              "value": 3840
-            },
-            {
-              "name": "Channel card damaged",
-              "value": 2840
-            }
-          ]
-        },
-        {
-          "name": "AspectRatioBanker",
-          "value": 7074
-        },
-        {
-          "name": "AspectRatioBanker",
-          "value": 7074
-        },
-        {
-          "name": "AspectRatioBanker",
-          "value": 7074
-        },
-        {
-          "name": "AspectRatioBanker",
-          "value": 7074
-        }
-      ]
-    }
-   ]
+      },
+      {
+        "name": "BSS Audio box",
+        "children": [
+          {
+            "name": "Dip switch wrong configuration",
+            "value": 3534
+          },
+          {
+            "name": "Channels config by color",
+            "value": 5731
+          },
+          {
+            "name": "Ring connection between amp/boxes",
+            "children": [
+              {
+                "name": "Ethernet cables",
+                "value": 7840
+              }
+            ]
+          },
+          {
+            "name": "2 Drivers installed properly",
+            "value": 5914
+          },
+          {
+            "name": "Audio devices named properly",
+            "value": 3416
+          }
+        ]
+      },
+      {
+        "name": "Keithley 3706A",
+        "children": [
+          {
+            "name": "Keithley harness",
+            "children": [
+              {
+                "name": "D104 pin missplaced",
+                "value": 3840
+              },
+              {
+                "name": "Channel card damaged",
+                "value": 2840
+              }
+            ]
+          },
+          {
+            "name": "NI Max configuration name",
+            "value": 3074
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Voltages",
@@ -256,20 +244,8 @@
             ]
           },
           {
-            "name": "AspectRatioBanker",
-            "value": 7074
-          },
-          {
-            "name": "AspectRatioBanker",
-            "value": 7074
-          },
-          {
-            "name": "AspectRatioBanker",
-            "value": 7074
-          },
-          {
-            "name": "AspectRatioBanker",
-            "value": 7074
+            "name": "NI Max configuration name",
+            "value": 3074
           }
         ]
       },
