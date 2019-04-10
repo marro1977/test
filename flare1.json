@@ -266,11 +266,11 @@
             "children": [
               {
                 "name": "DB25 pin missplaced",
-                "value": 1840
+                "value": 840
               },
               {
                 "name": "Soldering issue",
-                "value": 2840
+                "value": 1840
               }
             ]
           },
