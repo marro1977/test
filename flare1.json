@@ -272,6 +272,46 @@
             "value": 7074
           }
         ]
+      },
+      {
+        "name": "Filter path",
+        "children": [
+          {
+            "name": "Filter to Keithley harness",
+            "children": [
+              {
+                "name": "D104 pin missplaced",
+                "value": 3840
+              }
+            ]
+          },
+          {
+            "name": "Filter Box",
+            "children": [
+              {
+                "name": "DB25 pin missplaced",
+                "value": 1840
+              },
+              {
+                "name": "Soldering issue",
+                "value": 2840
+              }
+            ]
+          },
+          {
+            "name": "Filter to Amp harness",
+            "children": [
+              {
+                "name": "DB25 pin missplaced",
+                "value": 1840
+              },
+              {
+                "name": "Terminal Amp missplaced",
+                "value": 4840
+              }
+            ]
+          }
+        ]
       }
     ]
   },
