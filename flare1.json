@@ -60,28 +60,28 @@
         "children": [
           {
             "name": "Dip switch wrong configuration",
-            "value": 1534
+            "value": 534
           },
           {
             "name": "Channels config by color",
-            "value": 3731
+            "value": 731
           },
           {
             "name": "Ring connection between amp/boxes",
             "children": [
               {
                 "name": "Ethernet cables",
-                "value": 4840
+                "value": 840
               }
             ]
           },
           {
             "name": "2 Drivers installed properly",
-            "value": 5914
+            "value": 914
           },
           {
             "name": "Audio devices named properly",
-            "value": 3416
+            "value": 416
           }
         ]
       },
@@ -202,28 +202,28 @@
         "children": [
           {
             "name": "Dip switch wrong configuration",
-            "value": 1534
+            "value": 534
           },
           {
             "name": "Channels config by color",
-            "value": 3731
+            "value": 731
           },
           {
             "name": "Ring connection between amp/boxes",
             "children": [
               {
                 "name": "Ethernet cables",
-                "value": 4840
+                "value": 840
               }
             ]
           },
           {
             "name": "2 Drivers installed properly",
-            "value": 5914
+            "value": 914
           },
           {
             "name": "Audio devices named properly",
-            "value": 3416
+            "value": 416
           }
         ]
       },
@@ -384,28 +384,28 @@
         "children": [
           {
             "name": "Dip switch wrong configuration",
-            "value": 1534
+            "value": 534
           },
           {
             "name": "Channels config by color",
-            "value": 3731
+            "value": 731
           },
           {
             "name": "Ring connection between amp/boxes",
             "children": [
               {
                 "name": "Ethernet cables",
-                "value": 4840
+                "value": 840
               }
             ]
           },
           {
             "name": "2 Drivers installed properly",
-            "value": 5914
+            "value": 914
           },
           {
             "name": "Audio devices named properly",
-            "value": 3416
+            "value": 416
           }
         ]
       }
@@ -504,28 +504,28 @@
         "children": [
           {
             "name": "Dip switch wrong configuration",
-            "value": 1534
+            "value": 534
           },
           {
             "name": "Channels config by color",
-            "value": 3731
+            "value": 731
           },
           {
             "name": "Ring connection between amp/boxes",
             "children": [
               {
                 "name": "Ethernet cables",
-                "value": 4840
+                "value": 840
               }
             ]
           },
           {
             "name": "2 Drivers installed properly",
-            "value": 5914
+            "value": 914
           },
           {
             "name": "Audio devices named properly",
-            "value": 3416
+            "value": 416
           }
         ]
       }
