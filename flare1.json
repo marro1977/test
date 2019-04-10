@@ -60,18 +60,18 @@
         "children": [
           {
             "name": "Dip switch wrong configuration",
-            "value": 3534
+            "value": 1534
           },
           {
             "name": "Channels config by color",
-            "value": 5731
+            "value": 3731
           },
           {
             "name": "Ring connection between amp/boxes",
             "children": [
               {
                 "name": "Ethernet cables",
-                "value": 7840
+                "value": 4840
               }
             ]
           },
@@ -202,18 +202,18 @@
         "children": [
           {
             "name": "Dip switch wrong configuration",
-            "value": 3534
+            "value": 1534
           },
           {
             "name": "Channels config by color",
-            "value": 5731
+            "value": 3731
           },
           {
             "name": "Ring connection between amp/boxes",
             "children": [
               {
                 "name": "Ethernet cables",
-                "value": 7840
+                "value": 4840
               }
             ]
           },
@@ -384,18 +384,18 @@
         "children": [
           {
             "name": "Dip switch wrong configuration",
-            "value": 3534
+            "value": 1534
           },
           {
             "name": "Channels config by color",
-            "value": 5731
+            "value": 3731
           },
           {
             "name": "Ring connection between amp/boxes",
             "children": [
               {
                 "name": "Ethernet cables",
-                "value": 7840
+                "value": 4840
               }
             ]
           },
@@ -504,18 +504,18 @@
         "children": [
           {
             "name": "Dip switch wrong configuration",
-            "value": 3534
+            "value": 1534
           },
           {
             "name": "Channels config by color",
-            "value": 5731
+            "value": 3731
           },
           {
             "name": "Ring connection between amp/boxes",
             "children": [
               {
                 "name": "Ethernet cables",
-                "value": 7840
+                "value": 4840
               }
             ]
           },
